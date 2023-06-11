@@ -1,0 +1,2 @@
+# esnitch
+emacs-snitch
